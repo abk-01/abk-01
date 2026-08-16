@@ -22,7 +22,5 @@ Hey there, fellow coders! I'm basith, a passionate software engineering student 
 Let's embark on this coding adventure together! Feel free to connect, collaborate, or just drop by for a virtual coffee.
 
 📧 Email:abthulbasith10@gmail.com
-
-linkdIn - [https://github.com/Cortynex/cortynex-official-website.git](https://www.linkedin.com/in/basith-khan-006233300)
   
 Happy coding! 🚀✨

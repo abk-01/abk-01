@@ -23,6 +23,6 @@ Let's embark on this coding adventure together! Feel free to connect, collaborat
 
 📧 Email:abthulbasith10@gmail.com
 
-linkdIn - https://github.com/Cortynex/cortynex-official-website.git
+linkdIn - [https://github.com/Cortynex/cortynex-official-website.git](https://www.linkedin.com/in/basith-khan-006233300)
   
 Happy coding! 🚀✨

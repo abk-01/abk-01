@@ -1,4 +1,4 @@
-# Welcome to basith's Code Haven! ❄️
+# Welcome to Basith's Code Haven! ❄️
 
 Hey there, fellow coders! I'm basith, a passionate software engineering student diving deep into the realms of code. Join me on this exhilarating journey through the binary landscapes of ones and zeros. 🚀
 
